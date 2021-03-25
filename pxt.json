@@ -1,0 +1,22 @@
+{
+    "name": "Sensorbit ultrasonic",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "sensors": "github:emakefun/pxt-sensorbit#70a210a94e68d529b4fcfb07557a8e52c7f7aa55"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
